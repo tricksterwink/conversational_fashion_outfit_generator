@@ -4,7 +4,7 @@ With the advent of Generative AI, Search and finding a product is being revoluti
 moving away from a single open text box experience to something more conversational and this
 will enable product discovery and recommendations to be a lot more powerful than they are
 today by way of being able to truly understand the user’s needs in a more human-like
-conversational way. Fashion is one of the categories where discovery will get reset.
+conversational way. Fashion is one of the categories where discovery will get reset.\
 As part of this challenge, teams need to create an Gen AI-powered fashion outfit generator for
 Flipkart that revolutionizes the way users discover and create personalized fashion outfits, in a
 natural conversational way. The outfit generator should leverage user's past purchase history,
