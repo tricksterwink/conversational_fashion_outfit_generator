@@ -1,1 +1,1 @@
-# Conversational Fashion Outfit Generator powered by GenAI.
+# Conversational Fashion Outfit Generator.
