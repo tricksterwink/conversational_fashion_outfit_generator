@@ -1,7 +1,7 @@
 # Conversational Fashion Outfit Generator.
 
- Problem Statement: Conversational Fashion Outfit Generator powered by GenAI.
- Description:
+ # Problem Statement: Conversational Fashion Outfit Generator powered by GenAI.
+ # Description:
  With the advent of Generative AI, Search and finding a product is being revolutionised. We are
  moving away from a single open text box experience to something more conversational and this
  will enable product discovery and recommendations to be a lot more powerful than they are
